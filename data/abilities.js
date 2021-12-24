@@ -2431,10 +2431,10 @@ var abilityList = [
     // Buffs
     {
         id: 1298,
-        name: "Jinpu",
+        name: "Fugetsu",
         name_cn: "阵风",
         name_de: "Jinpu",
-        name_en: "Jinpu",
+        name_en: "Fugetsu",
         name_fr: "Jinpû",
         name_jp: "陣風",
         name_kr: "진풍",
@@ -2449,10 +2449,10 @@ var abilityList = [
     },
     {
         id: 1299,
-        name: "Shifu",
+        name: "Fuka",
         name_cn: "士风",
         name_de: "Shifu",
-        name_en: "Shifu",
+        name_en: "Fuka",
         name_fr: "Shifû",
         name_jp: "士風",
         name_kr: "사풍",
